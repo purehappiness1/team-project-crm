@@ -4,9 +4,9 @@
 .vscode
 .env
 
-*/*.env 
+.env 
 .env*/*
-*/*.local
+.local
 # production
 .eslint
 seeder
